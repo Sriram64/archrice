@@ -1,0 +1,2 @@
+# archrice
+A suckless rice.
